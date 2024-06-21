@@ -1,0 +1,12 @@
+﻿  pist3.cpp
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(19,1): warning C4005: 'PERROR': redefinición de macro
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.h(18): message : vea la definición anterior de 'PERROR'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(88,30): error C7664: ">": comparación ordenada del puntero y el entero cero ("char *" y "int")
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(100,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(107,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(114,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(121,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(128,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(135,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(142,9): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'
+C:\Users\agarc\source\repos\pist31\pist3\pist3\pist3.cpp(171,13): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'LPVOID'

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>111</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>125</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>132</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\cristobal\source\repos\pist31\pist3\pist3\</FILEPATH>
+      <FILENAME>pist3.cpp</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>El elemento _Param_(4) de la llamada a 'fprintf' debe ser la dirección de una cadena. Tipo real: 'void *'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
